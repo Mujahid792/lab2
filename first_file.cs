@@ -1,10 +1,12 @@
-using System;
+ 1st_semester
+Console.WriteLine("2nd Semester Subjects:");
+Console.WriteLine("1. Object-Oriented Programming");
+Console.WriteLine("2. Communication Skills");
+Console.WriteLine("3. Discrete Structures");
 
-class Program
-{
-    static void Main()
-    {
-        Console.WriteLine("Mujahid");
-        Console.WriteLine("24 ST 065");
-    }
-}
+Console.WriteLine("FSC Subjects:");
+Console.WriteLine("- Physics");
+Console.WriteLine("- Chemistry");
+Console.WriteLine("- Biology");
+Console.WriteLine("- English");
+ fsc_subjects
