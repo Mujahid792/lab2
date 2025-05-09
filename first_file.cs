@@ -1,10 +1,5 @@
-using System;
-
-class Program
-{
-    static void Main()
-    {
-        Console.WriteLine("Mujahid");
-        Console.WriteLine("24 ST 065");
-    }
-}
+Console.WriteLine("FSC Subjects:");
+Console.WriteLine("- Physics");
+Console.WriteLine("- Chemistry");
+Console.WriteLine("- Biology");
+Console.WriteLine("- English");
