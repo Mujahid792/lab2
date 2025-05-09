@@ -1,10 +1,4 @@
-using System;
-
-class Program
-{
-    static void Main()
-    {
-        Console.WriteLine("Mujahid");
-        Console.WriteLine("24 ST 065");
-    }
-}
+Console.WriteLine("1st Semester Subjects:");
+Console.WriteLine("- Programming Fundamentals");
+Console.WriteLine("- Applied Physics");
+Console.WriteLine("- Calculus");
